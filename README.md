@@ -33,8 +33,5 @@
 ## Скриншот фонового сканирования
 <img width="487" height="313" alt="image" src="assets/daemon.png" />
 
-## Будущие обновления в v1.1
+## Будущие обновления в v1.1. Запуск API сервера
 <img width="487" height="313" alt="image" src="assets/nextUpdateVersionForWeb.png" />
-
-## Будущие обновления в v1.2
-<img width="487" height="313" alt="image" src="assets/nextUpdateVersion.png" />
